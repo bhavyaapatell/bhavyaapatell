@@ -1,6 +1,6 @@
 ## 
 
-Hi, I’m Bhavya Patel 👋
+Hi, I’m Bhavya!
 
 I’m a third-year Computer Science and Business Administration double degree student at Wilfrid Laurier University. My academic journey bridges technology and business, with a strong focus on software development and data-driven problem solving.
 
